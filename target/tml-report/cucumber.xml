@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="4" time="66.912">
+<testcase classname="US1005_Walmart_parameter_arama" name="_2" time="16.83">
+<system-out><![CDATA[When kullanici Walmart ana sayfaya gider....................................passed
+Then walmart sayfasinda "Nutella" icin arama yapar..........................passed
+Then walmartta sayfa basliginin "Nutella" icerdigini test eder..............passed
+And kullanici sayfayi kapatir...............................................passed
+]]></system-out>
+</testcase>
+<testcase classname="US1005_Walmart_parameter_arama" name="_3" time="17.792">
+<system-out><![CDATA[When kullanici Walmart ana sayfaya gider....................................passed
+Then walmart sayfasinda "pencil" icin arama yapar...........................passed
+Then walmartta sayfa basliginin "pencil" icerdigini test eder...............passed
+And kullanici sayfayi kapatir...............................................passed
+]]></system-out>
+</testcase>
+<testcase classname="US1005_Walmart_parameter_arama" name="_4" time="17.374">
+<system-out><![CDATA[When kullanici Walmart ana sayfaya gider....................................passed
+Then walmart sayfasinda "tomatoes" icin arama yapar.........................passed
+Then walmartta sayfa basliginin "tomatoes" icerdigini test eder.............passed
+And kullanici sayfayi kapatir...............................................passed
+]]></system-out>
+</testcase>
+<testcase classname="US1005_Walmart_parameter_arama" name="_5" time="14.337">
+<system-out><![CDATA[When kullanici Walmart ana sayfaya gider....................................passed
+Then walmart sayfasinda "popcorn" icin arama yapar..........................passed
+Then walmartta sayfa basliginin "popcorn" icerdigini test eder..............passed
+And kullanici sayfayi kapatir...............................................passed
+]]></system-out>
+</testcase>
+</testsuite>
