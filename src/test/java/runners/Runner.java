@@ -11,13 +11,10 @@ import org.junit.runner.RunWith;
                  "json:target\\json-reports/cucumber.json",
                  "junit:target\\tml-report/cucumber.xml"},
 
-
-
-
                  features = "src/test/resources/features",
                  glue = "stepdefinitions",
                  dryRun = false,
-                 tags="@walmart"
+                 tags="@data"
 )
 
 
